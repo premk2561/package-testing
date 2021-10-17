@@ -4,7 +4,7 @@
   "main": "dist/index.js",
   "module": "dist/index.js",
   "source": "src/index.js",
-  "private": true,
+  "private": false,
   "dependencies": {
     "@testing-library/jest-dom": "^5.14.1",
     "@testing-library/react": "^11.2.7",
@@ -39,7 +39,7 @@
     ]
   },
   "repository": {
-    "url": "git://github.com/premk2561/react_mail.git"
+    "url": "git://github.com/premk2561/package-testing.git"
   },
   "devDependencies": {
     "@babel/core": "^7.15.8",
